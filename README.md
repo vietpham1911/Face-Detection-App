@@ -26,5 +26,6 @@ Install opencv:
    ```
 3. Press q or Q if you want to quit the app.
 
-Additional
+##Additional
 Documantation of opencv: https://docs.opencv.org/
+Repository of opencv: https://github.com/opencv/
