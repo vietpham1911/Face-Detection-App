@@ -7,7 +7,6 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 Install opencv:
-* npm
   ```sh
   npm install python-opencv-headless
   ```
