@@ -3,7 +3,7 @@
 This is a simple Face Detection App. The haar cascade algorithm is used for face detection.
 
 ## Getting started
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 Install opencv:
