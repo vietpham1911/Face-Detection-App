@@ -12,7 +12,7 @@ Install opencv:
   ```
   
 ### Installation und run the app
-1. Clone the repo
+1. Clone the repo:
    ```sh
    git clone https://github.com/vietpham1911/Face-Detection-App.git
    ```
