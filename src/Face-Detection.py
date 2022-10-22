@@ -1,5 +1,6 @@
 import cv2
 
+# Time 1:36:00
 # Load pre-trained data on face frontals from opencv (haar cascade algorithm)
 # https://docs.opencv.org/
 trained_face_data = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
